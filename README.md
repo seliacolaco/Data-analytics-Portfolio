@@ -93,3 +93,36 @@ To analyze the complete sales performance of chocolate products and identify:
 - Dataset & PBIX not uploaded to prevent project duplication.
 
 ---
+
+
+
+
+### 📊 **Power BI Dashboard: Global Happiness Insights (2023)**  
+
+This dashboard analyzes happiness levels across the world based on social, economic, and regional factors.  
+It provides clear insights into **how different continents and countries compare** in terms of happiness metrics.
+
+### **🔍 Key Highlights**
+- 🌍 *Happiness Score by Continent*  
+- 🧾 *Social Support & Corruption Perception*  
+- 🗺️ *Global Map View of Happiness Scores*  
+- 🏆 *Top 10 Happiest Countries*  
+- 🎯 *Interactive slicers (Continent & Year)*  
+- 📈 *Happiness score distribution & ranking visuals*
+
+### **📸 Dashboard Preview**
+![Happiness Dashboard](Dashboards/Happiness%20dashboard%20SS.png)
+
+---
+
+### ⭐ **Skills Used**
+- Power BI  
+- DAX  
+- Data Modelling  
+- Bar/Column Charts  
+- Pie Chart  
+- Map Visuals  
+- Slicers  
+- Cross-filtering  
+- Data Cleaning  
+
