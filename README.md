@@ -1,128 +1,41 @@
-# Data-analytics-Portfolio
-My Data Analytics Projects : Excel, Power BI, and more.
----
+# 📊 Data-analytics-Portfolio
 
-## 🍫 Power BI Dashboard: Chocolate Sales Analysis
-
-This Power BI report provides a detailed analysis of chocolate sales across regions, products, and salespersons.  
-It helps business managers track performance, understand trends, and identify key growth areas.
-
-### 📸 Dashboard Screenshot
-👉 **View Screenshot:** [Dashboards Folder](./Dashboards)
+Welcome to my Data Analytics Portfolio!  
+Here, I showcase projects built using **Power BI, Excel, SQL, and Data Modelling**.  
+More projects will be added soon as I continue learning and building.
 
 ---
 
-## 📊 Key Insights & Metrics
+## 📘 Power BI Projects
 
-### 🔹 High-Level KPIs
-- **22** total chocolate products
-- **25** active salespersons
-- **6M+** total sales amount
-- **177K** total boxes shipped
+### 🍫 **1. Chocolate Sales Analysis**  
+A detailed analysis of chocolate product performance across regions, products, and salespersons.  
+👉 **View Project:** [Project-1](Project-1/README.md)
 
----
-
-## 🔎 Visual Breakdown
-
-### ⭐ **1. Sales by Product**
-- A horizontal bar chart showing product-wise revenue.
-- Top-selling products include:
-  - **Smooth Silky**  
-  - **Peanut Butter Chocolates**  
-  - **85% Dark Bars** (≈ 299K sales)
+### 🌍 **2. Global Happiness Insights (2023)**  
+An interactive dashboard exploring happiness levels across continents and countries.  
+👉 **View Project:** [Project-2](Project-2/README.md)
 
 ---
 
-### ⭐ **2. Sales by Country**
-- A world map with bubble markers showing regional performance.
-- Highest contributions from:
-  - **North America**
-  - **Europe**
-  - **Asia**
+## 📂 Dashboard Screenshots
+
+All dashboard screenshots are stored here:  
+👉 [Dashboards Folder](Dashboards)
 
 ---
 
-### ⭐ **3. Monthly Sales Trend**
-- Line chart displaying fluctuations from **January to August**.
-- Visible spikes in:
-  - **June**
-  - **February**
-- Helps identify seasonality patterns.
-
----
-
-### ⭐ **4. Salesperson Performance**
-- Table showing:
-  - **Sum of Amount**
-  - **Sum of Boxes Shipped**
-- Top performers include:
-  - **Ches Bonnell**
-  - **Brien Boise**
-  - **Beverie Moffet**
-
----
-
-### ⭐ **5. Total Amount vs Boxes Shipped**
-- Donut chart showing the distribution.
-- Majority of the revenue comes from product sales (97%).
-
----
-
-## 🛠 Tools & Techniques Used
-- **Power BI**
-- **DAX Measures**
-- **Data Cleaning & Modeling**
-- **Interactive Filters (Slicer for Dates)**
-- **Custom Colors & Formatting**
-- **Map, Donut, Line & Bar Charts**
-
----
-
-## 🎯 Project Objective
-To analyze the complete sales performance of chocolate products and identify:
-- Best-selling products  
-- Top-performing regions  
-- Salesperson contribution  
-- Seasonal sales trends  
-- Overall business performance
-
----
-
-## 📁 Files
-- **Dashboard Screenshot:** `Dashboards/Chocolates sales dashboard SS.png`
-- Dataset & PBIX not uploaded to prevent project duplication.
-
----
-
-
-
-
-### 📊 **Power BI Dashboard: Global Happiness Insights (2023)**  
-
-This dashboard analyzes happiness levels across the world based on social, economic, and regional factors.  
-It provides clear insights into **how different continents and countries compare** in terms of happiness metrics.
-
-### **🔍 Key Highlights**
-- 🌍 *Happiness Score by Continent*  
-- 🧾 *Social Support & Corruption Perception*  
-- 🗺️ *Global Map View of Happiness Scores*  
-- 🏆 *Top 10 Happiest Countries*  
-- 🎯 *Interactive slicers (Continent & Year)*  
-- 📈 *Happiness score distribution & ranking visuals*
-
-### **📸 Dashboard Preview**
-![Happiness Dashboard](Dashboards/Happiness%20dashboard%20SS.png)
-
----
-
-### ⭐ **Skills Used**
+## 🧰 Tools & Technologies Used
 - Power BI  
+- SQL  
+- Excel  
 - DAX  
 - Data Modelling  
-- Bar/Column Charts  
-- Pie Chart  
-- Map Visuals  
-- Slicers  
-- Cross-filtering  
-- Data Cleaning  
+- Visualization Techniques  
+
+---
+
+## ✨ About This Portfolio
+This repository highlights my ability to analyze data, build dashboards, and present actionable insights using modern data analytics tools.  
+New projects will continue to be added as my skills grow.
 
